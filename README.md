@@ -9,6 +9,8 @@ pip3 install coinmarketcap
 
 Currently configured for myriadcoin but change the coin name as to what you want to track :)
 
+eg: myjs = coinmarketcap.ticker('myriadcoin') - Change myriadcoin to bitcoin/ethereum/whatever
+
 If you find this of use feel free to knock me a couple of myriadbeerpoints over :)
 
 MGeS9bhPLACjAnh7dvGAugFdxhKAiBcEQ1
